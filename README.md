@@ -33,6 +33,6 @@
     Teste (em andamento)
   </p>
   
-  ![Snake animation](https://https://github.com/Suellen-Kitten/Suellen-Kitten/blob/main/cobrinha.yml)
+  ![Snake animation](https://github.com/Suellen-Kitten/Suellen-Kitten/blob/main/.github/workflows/main.yml)
  
 </div>
