@@ -1,8 +1,17 @@
-### Hey! Eu sou a Suellen mas pode me chamar de Suh!
+### Eu sou a Suellen!
 
 ##
 
+<p>Meus Hobbies são: Programas mini sites, Escrever Contos, entre outros.</p>
+
+<p>Minha formação é: Graduanda de Ciência da Computação e atualmente também pela GrowDev.</p>
+
+<p>Atualmente não tenho experiências profissionais mas estou em processo de busca.</p>
+
+
  <br>
+
+## Linguagem de Programação favoritas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,6 +26,8 @@
 </div>
 
 ##
+
+<p>Atualmente estou vendo mais sobre Go Lang</p>
 
 <div> 
   <a href = "mailto:suellen.org@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
