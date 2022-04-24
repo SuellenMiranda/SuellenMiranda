@@ -56,4 +56,4 @@ Skills: REACT NATIVE / JS / HTML / CSS / GO
 
 
 ## Dicas para como fazer um melhor READ.me
-[teste](www.google.com)
+![DEV POR AI](https://devporai.com.br/como-personalizar-seu-perfil-no-github/) Como personalizar seu perfil no GitHub
