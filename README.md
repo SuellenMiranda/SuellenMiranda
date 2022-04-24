@@ -1,5 +1,20 @@
 ### Eu sou a Suellen!
 
+### Hi there 👋, Meu nome é Suellen
+#### Eu atualmente sou Cientista da Computação
+![Eu atualmente sou Cientista da Computação](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Eu fiz este projeto apenas por diversão, ele permite que você crie arquivos simples e agradáveis ​​do GitHub Readme que você pode copiar/colar e usar em seu perfil.
+
+Skills: REACT NATIVE / JS / HTML / CSS / GO
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 ##
 
 <p>Meus Hobbies são: Programas mini sites, Escrever Contos, entre outros.</p>
