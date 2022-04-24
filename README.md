@@ -6,7 +6,7 @@
 
 Eu fiz este projeto apenas por diversão, ele permite que você crie arquivos simples e agradáveis ​​do GitHub Readme que você pode copiar/colar e usar em seu perfil.
 
-Skills: REACT NATIVE / JS / HTML / CSS / GO
+Skills: REACT NATIVE / JS / HTML / CSS / GO / PYTHON
 
 - 🔭 I’m currently working on this page. 
 
@@ -57,3 +57,11 @@ Skills: REACT NATIVE / JS / HTML / CSS / GO
 
 ## Dicas para como fazer um melhor READ.me
 Como personalizar seu perfil no GitHub [DEV POR AI](https://devporai.com.br/como-personalizar-seu-perfil-no-github/)
+
+Awesome GitHub Profile READMEs [STAR ON GITHUB](https://zzetao.github.io/awesome-github-profile/)
+
+Awesome Developer Profile [coderjojo](https://github.com/coderjojo/creative-profile-readme)
+
+Sintaxe básica de escrita e formatação no GitHub [GithHub Docs](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+5 Projetos para Turbinar Seu Portfólio [DEV POR AI](https://devporai.com.br/5-projetos-para-turbinar-seu-portfolio/)
