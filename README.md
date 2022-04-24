@@ -53,3 +53,7 @@ Skills: REACT NATIVE / JS / HTML / CSS / GO
   </p>
 
 </div>
+
+
+## Dicas para como fazer um melhor READ.me
+[teste](www.google.com)
