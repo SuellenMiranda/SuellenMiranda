@@ -1,21 +1,26 @@
 ### Eu sou a Suellen!
 
-### Hi there 👋, Meu nome é Suellen
-#### Eu atualmente sou Cientista da Computação
-![Eu atualmente sou Cientista da Computação](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Eu fiz este projeto apenas por diversão, ele permite que você crie arquivos simples e agradáveis ​​do GitHub Readme que você pode copiar/colar e usar em seu perfil.
+<p>Welcome to my page! </br> I'm Suellen, Fullstack developer from <b>Brazil</b>. </p>
+<p>I am a Computer Science student at Universidade Vila Velha.<br>
+I'm 19 years old, I know a few languages besides the famous markup language used to build pages on the Web (HTML - Hypertext Markup Language).<br>
+I'm focusing on RN - React Native and C#, where I'll get deeper into knowing more, and in the future adding more languages to the curriculum.</p>
 
-Skills: REACT NATIVE / JS / HTML / CSS / GO / PYTHON
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on this page. 
+<h3>Where to find me</h3>
 
-
-
-
-
-
-##
+<p><a href="https://github.com/SuellenMiranda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/suellen-miranda-amorim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <p>Meus Hobbies são: Programas mini sites, Escrever Contos, entre outros.</p>
 
