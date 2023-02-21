@@ -1,6 +1,6 @@
 ### Hey!! I'm Suellen!
 
-![Snake animation](https://github.com/SuellenMiranda/SuellenMiranda/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SuellenMiranda/SuellenMiranda/blob/output/github-user-contribution.svg)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
