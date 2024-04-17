@@ -23,10 +23,10 @@ I'm focusing on RN - React Native and C#, where I'll get deeper into knowing mor
 <h3>Where to find me</h3>
 
 <p>
-  <a href="https://github.com/SuellenMiranda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/suellenmiranda/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href = "mailto:suellen.org@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato.suh.euclxel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  No <a href="https://github.com/SuellenMiranda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> ou no
+  <a href="https://www.linkedin.com/in/suellenmiranda/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> e pelos emails
+  <a href = "mailto:suellen.org@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> e
+  <a href = "mailto:contato.suh.euclxel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 💕
 </p>
   
 <p>Meus Hobbies são: <br> Programas mini sites, Escrever Contos, entre outros.</p>
