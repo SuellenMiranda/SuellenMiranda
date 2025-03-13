@@ -1,6 +1,5 @@
-### Hey!! I'm Suellen!
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/SuellenMiranda/SuellenMiranda/blob/output/github-user-contribution.svg)
 imagine o joguinho do snake funcionando kkk
 
 # Olá, eu sou Suellen Miranda Amorim 👋
