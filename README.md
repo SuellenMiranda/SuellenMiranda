@@ -17,7 +17,7 @@
 
 imagine o joguinho do snake funcionando kkk
 
-# Olá, eu sou Suellen Miranda Amorim 👋
+# Olá, eu sou Suellen Miranda 👋
 
 Sou desenvolvedora full stack e designer apaixonada por transformar ideias digitais em soluções reais. Com 1,3 anos de experiência em desenvolvimento frontend, backend e design, atuo com foco em qualidade, colaboração e inovação.
 
