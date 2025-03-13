@@ -3,70 +3,105 @@
 ![Snake animation](https://github.com/SuellenMiranda/SuellenMiranda/blob/output/github-user-contribution.svg)
 imagine o joguinho do snake funcionando kkk
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# Olá, eu sou Suellen Miranda Amorim 👋
 
-<p>Welcome to my page! </br> I'm Suellen, Fullstack developer from <b>Brazil</b>. </p>
-<p>I am a Computer Science student at Universidade Vila Velha.<br>
-I'm 19 years old, I know a few languages besides the famous markup language used to build pages on the Web (HTML - Hypertext Markup Language).<br>
-I'm focusing on RN - React Native and C#, where I'll get deeper into knowing more, and in the future adding more languages to the curriculum.</p>
+Sou desenvolvedora full stack e designer apaixonada por transformar ideias digitais em soluções reais. Com 1,3 anos de experiência em desenvolvimento frontend, backend e design, atuo com foco em qualidade, colaboração e inovação.
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+---
 
-<h3>Where to find me</h3>
+## Sobre Mim
 
-<p>
-  No <a href="https://github.com/SuellenMiranda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> ou no
-  <a href="https://www.linkedin.com/in/suellenmiranda/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> e pelos emails
-  <a href = "mailto:suellen.org@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> e
-  <a href = "mailto:contato.suh.euclxel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 💕
-</p>
-  
-<p>Meus Hobbies são: <br> Programas mini sites, Escrever Contos, entre outros.</p>
-<p>Minha formação é: <br> Graduanda de Ciência da Computação e atualmente também pela GrowDev.</p>
-<p>Atualmente não tenho experiências profissionais mas estou em processo de busca.</p>
+- **Nome:** Suellen Miranda Amorim
+- **Formação:** Ciência da Computação – Universidade Vila Velha (Concluído em junho de 2024)
+- **Objetivo:** Dar vida às ideias digitais, traduzindo-as em softwares funcionais por meio do código, seja como desenvolvedora ou designer.
 
-## Linguagem de Programação favorita :)
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="43" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
-</div>
- 
-# Minha Bagagem profissional
+## Experiência Profissional
 
-###  Links de templates
-https://github.com/SuellenMiranda/Dashboard-Siderbar-Menu <br>
-https://github.com/SuellenMiranda/React_Native_Java_Css <br>
-https://github.com/SuellenMiranda/Animated-Login-Form <br>
-https://github.com/SuellenMiranda/login <br>
+### PVT Software & Serviços  
+*Desenvolvedora Full Stack e Infraestrutura*  
+**Dezembro de 2024 – Janeiro de 2025**  
+- Desenvolvimento e manutenção de sites e portais.  
+- Suporte ao ambiente Azure e infraestrutura de TI.
 
-### Projetos
-https://github.com/SuellenMiranda/Apresentation <br>
-https://github.com/SuellenMiranda/Criptografia_Assimetrica <br>
-https://github.com/SuellenMiranda/The-Bug-Bounty <br>
-https://github.com/SuellenMiranda/Ricardo_Nikel <br>
-https://github.com/SuellenMiranda/Nikel_Project <br>
-https://github.com/SuellenMiranda/ZHIYITECH <br>
-https://github.com/SuellenMiranda/Snippetbox <br>
-  
-### Atualmente Estudando
-https://github.com/SuellenMiranda/The-Bug-Bounty <br>
-https://github.com/SuellenMiranda/Criptografia_Assimetrica <br>
+### Jade Autism  
+*Desenvolvedora, Design Web e Ilustrações*  
+**Novembro de 2023 – Junho de 2024**  
+- Suporte ao cliente e testes de novas aplicações.  
+- Desenvolvimento de novas funcionalidades e migração de tecnologias.
+
+### Vale | UVV  
+*Desenvolvedora Unity em Realidade Virtual*  
+**Agosto de 2023 – Dezembro de 2023**  
+- Desenvolvimento de técnicas e metodologias para treinamentos utilizando realidade virtual.
+
+### Monitoria  
+*Monitoria de Design e Desenvolvimento de Banco de Dados*  
+**Julho de 2020 – Junho de 2023**  
+- Auxílio aos alunos na resolução de desafios em modelagem e criação de bancos de dados.
+
+### Voluntariado na Liga Feminina de TI  
+*Desenvolvimento do site da liga*  
+**Maio de 2024**  
+- Aplicação prática de conhecimentos em arquitetura e design de aplicações web.
+
+---
+
+## Certificações e Cursos
+
+- **Palestra Técnica:** Vulnerabilidades em Cloud AWS – [ACTION Talents] (2022)
+- **IT Essentials:** Cisco (2020)
+- **Cybersecurity Essentials:** Cisco (2021)
+- **Award of Achievement Java:** Oracle Academy (2021)
+- **Renderização:** Ander Alencar (2021)
+- **Java Fundamentals:** Oracle (2020)
+
+---
+
+## Competências Técnicas
+
+- **Linguagens & Frameworks:**  
+  Golang, Python, Java, JavaScript, TypeScript, React, React Native, C, C++, C#, PHP, SQL, MySQL, Node.js, Vue.js
+
+- **Ferramentas & Tecnologias:**  
+  CSS, HTML, Protocolos HTTP/HTTPS, Adobe XD, Asana, Jira, Microsoft Office, Figma, AWS, Bitbucket, PostgreSQL, REST API, Git, aplicações web responsivas e acessíveis, design system, Sketch
+
+---
+
+## Competências Comportamentais
+
+- Análise de problemas  
+- Comprometimento e proatividade  
+- Comunicação e colaboração  
+- Organização e relacionamento interpessoal  
+- Tomada de decisões estratégicas e liderança  
+- Resolução de problemas e compartilhamento de conhecimento
+
+---
+
+## Idiomas
+
+- **Inglês:** Intermediário  
+- **Espanhol:** Básico
+
+---
+
+## Contato
+
+- **Telefone:** (27) 98847-9887  
+- **E-mail:** [suellen.org@gmail.com](mailto:suellen.org@gmail.com)  
+- **LinkedIn:** [suellenmiranda](https://www.linkedin.com/in/suellenmiranda/)  
+- **Instagram:** [mayukosuh](https://www.instagram.com/mayukosuh)
+
+---
+
+## Conecte-se Comigo
+
+Estou sempre em busca de novos desafios e oportunidades para transformar ideias em realidade. Se você tem um projeto interessante ou deseja colaborar, sinta-se à vontade para entrar em contato!
+
+> "Dar vida às ideias digitais, traduzindo-as em softwares funcionais."
+
   
 #### Para mais, clique no meu [perfil](https://github.com/SuellenMiranda?tab=repositories) se tiver mais interesse no que eu fiz e estou fazendo.
 
