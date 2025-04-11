@@ -15,7 +15,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SuellenMiranda/SuellenMiranda/output/github-contribution-grid-snake.svg">
 </picture>
 
-imagine o joguinho do snake funcionando kkk
 
 # Olá, eu sou Suellen Miranda 👋
 
