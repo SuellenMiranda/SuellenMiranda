@@ -144,6 +144,7 @@
 
 ---
 ### 🔗 Extras
+- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
 - [Como personalizar seu perfil no GitHub (Dev por Aí)](https://devporai.com.br/como-personalizar-seu-perfil-no-github/)  
 - [Awesome GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)  
 - [Awesome Developer Profile - coderjojo](https://github.com/coderjojo/creative-profile-readme)  
