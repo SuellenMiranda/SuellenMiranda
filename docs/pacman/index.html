@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>Pac-Dev · Suellen Miranda</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="eyebrow">Suellen Miranda · GitHub Profile</p>
+      <h1>Pac-Dev</h1>
+      <p class="subtitle">Setas ou WASD para jogar · tema do portfólio</p>
+    </header>
+
+    <div class="layout">
+      <section class="game-panel">
+        <div class="hud">
+          <span>Score <strong id="score">0</strong></span>
+          <span>Vidas <strong id="lives">3</strong></span>
+          <span>Nível <strong id="level">1</strong></span>
+          <span>Recorde <strong id="best">0</strong></span>
+        </div>
+
+        <canvas id="game" width="560" height="620" aria-label="Jogo Pac-Dev"></canvas>
+
+        <p id="status" class="status">Pressione qualquer seta para começar</p>
+
+        <div class="controls-mobile" aria-hidden="true">
+          <button type="button" data-dir="up">▲</button>
+          <div class="controls-row">
+            <button type="button" data-dir="left">◀</button>
+            <button type="button" data-dir="down">▼</button>
+            <button type="button" data-dir="right">▶</button>
+          </div>
+        </div>
+      </section>
+
+      <aside class="leaderboard-panel">
+        <div class="panel-head">
+          <h2>Ranking local</h2>
+          <button type="button" id="clear-scores" class="btn-ghost" title="Limpar ranking">Limpar</button>
+        </div>
+        <p class="panel-hint">Top 10 salvos neste navegador</p>
+        <ol id="leaderboard" class="leaderboard"></ol>
+
+        <form id="name-form" class="name-form hidden">
+          <label for="player-name">Seu nome no ranking</label>
+          <div class="name-row">
+            <input id="player-name" type="text" maxlength="16" placeholder="Ex: Suh" autocomplete="nickname" />
+            <button type="submit" class="btn-primary">Salvar</button>
+          </div>
+        </form>
+      </aside>
+    </div>
+
+    <footer>
+      <a href="https://suellenmiranda.github.io/Portifolio/">Portfólio</a>
+      <span>·</span>
+      <a href="https://github.com/SuellenMiranda">GitHub</a>
+      <span>·</span>
+      <a href="https://linkedin.com/in/suellenmiranda">LinkedIn</a>
+    </footer>
+  </div>
+  <script src="game.js"></script>
+</body>
+</html>
